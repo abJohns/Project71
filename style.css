@@ -1,0 +1,42 @@
+body {
+    background-color: lightslategray;
+}
+
+.travel_mainDiv {
+    border:1px solid lightslategray;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p {
+    margin: 20px;
+}
+
+.navbar-inverse { 
+    position:sticky; top:0; z-index:99999 
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.achievement_text span {
+    columns: orange;
+}
+
+.enroll {
+    margin-bottom: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+}
